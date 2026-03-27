@@ -4,6 +4,10 @@
 
 这是一个基于 Auto X JS 的自动化阅读脚本，专为好策APP设计，理论上也可用于其他阅读类应用。脚本通过模拟人类阅读行为，实现自动翻页、智能章节切换等功能，对高校的强制阅读书本毕业说拜拜
 
+如果您觉得本项目对您有帮助，希望在下载前能够给项目点一个 star，这是对作者最好的支持！
+如果您觉得本项目对您有帮助，希望在下载前能够给项目点一个 star，这是对作者最好的支持！
+如果您觉得本项目对您有帮助，希望在下载前能够给项目点一个 star，这是对作者最好的支持！
+
 ## 功能特性
 
 - **自动翻页阅读**：模拟真实手指滑动，支持自定义阅读速度
@@ -114,6 +118,16 @@
 ## 支持作者
 
 如果您觉得本项目对您有帮助，希望在下载前能够给项目点一个 star，这是对作者最好的支持！
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=frain1219%2Fhaoce-auto-reader&type=date&legend=top-left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=frain1219/haoce-auto-reader&type=date&theme=dark&legend=top-left" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=frain1219/haoce-auto-reader&type=date&legend=top-left" />
+    <img alt="Star History Chart" src="https://api.star-history.com/image?repos=frain1219/haoce-auto-reader&type=date&legend=top-left" />
+  </picture>
+</a>
 
 ## 免责声明
 
