@@ -1,0 +1,55 @@
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 编辑器文件
+.trae/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 临时文件
+tmp/
+temp/
+
+# 日志文件
+*.log
+logs/
+
+# 配置文件
+*.config
+*.env
+
+# 生成的文件
+build/
+dist/
+
+# 依赖文件
+node_modules/
+
+# 测试文件
+coverage/
+test-results/
+
+# 操作系统文件
+Thumbs.db
+.DS_Store
+
+# Auto X JS 相关
+*.apk
+*.jsb
+
+# 个人配置
+*.local
+*.personal
+
+# 备份文件
+*.bak
+*.backup
+
+# 其他临时文件
+*.tmp
+*.temp
+.cache/
