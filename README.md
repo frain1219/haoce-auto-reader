@@ -8,6 +8,20 @@
 如果您觉得本项目对您有帮助，希望在下载前能够给项目点一个 star，这是对作者最好的支持！
 如果您觉得本项目对您有帮助，希望在下载前能够给项目点一个 star，这是对作者最好的支持！
 
+## Star History
+
+<a href="https://www.star-history.com/?repos=frain1219%2Fhaoce-auto-reader&type=date&legend=top-left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=frain1219/haoce-auto-reader&type=date&theme=dark&legend=top-left" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=frain1219/haoce-auto-reader&type=date&legend=top-left" />
+    <img alt="Star History Chart" src="https://api.star-history.com/image?repos=frain1219/haoce-auto-reader&type=date&legend=top-left" />
+  </picture>
+</a>
+
+## 免责声明
+
+本脚本仅供学习参考使用，请勿用于商业用途。使用本脚本产生的任何问题，作者概不负责。
+
 ## 功能特性
 
 - **自动翻页阅读**：模拟真实手指滑动，支持自定义阅读速度
@@ -119,16 +133,3 @@
 
 如果您觉得本项目对您有帮助，希望在下载前能够给项目点一个 star，这是对作者最好的支持！
 
-## Star History
-
-<a href="https://www.star-history.com/?repos=frain1219%2Fhaoce-auto-reader&type=date&legend=top-left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=frain1219/haoce-auto-reader&type=date&theme=dark&legend=top-left" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=frain1219/haoce-auto-reader&type=date&legend=top-left" />
-    <img alt="Star History Chart" src="https://api.star-history.com/image?repos=frain1219/haoce-auto-reader&type=date&legend=top-left" />
-  </picture>
-</a>
-
-## 免责声明
-
-本脚本仅供学习参考使用，请勿用于商业用途。使用本脚本产生的任何问题，作者概不负责。
